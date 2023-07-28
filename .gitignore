@@ -1,0 +1,9 @@
+node_modules/
+
+glove.6B.50d.pkl
+glove.6B.50d
+model.pkl
+
+emoji-creator-project-code/emotion_model.h5
+emoji-creator-project-code/glove.6B.50d.pkl
+emoji-creator-project-code/model.pkl
